@@ -18,10 +18,10 @@
 
 
 
-let someNumber = ""
-let stringNumber = Boolean(someNumber)
-console.log(stringNumber);
-console.log( typeof stringNumber);
+// let someNumber = ""
+// let stringNumber = Boolean(someNumber)
+// console.log(stringNumber);
+// console.log( typeof stringNumber);
 
 // true => 1
 // false => false
@@ -29,6 +29,43 @@ console.log( typeof stringNumber);
 // "muhamamd" => true
 
 
+// ********************************************* OPERATIONS *********************************************** 
+
+// let value = 3;
+// let negValue = -value
+// console.log(negValue);
+
+
+//console.log(2+2)
+//console.log(2-2)
+//console.log(2*2)
+//console.log(2**2)
+//console.log(2/2)
+//console.log(2%2)
+
+
+
+
+
+// let str1 = 'Muhammad'
+// let str2 = ' hammad'
+
+// let str3 = str1 + str2
+// console.log(str3);
+
+
+// console.log("1" + "2")
+// console.log("1" + 2)
+// console.log(1 + "2")
+// console.log("1" + 2 + 2);
+// console.log(1 + 2 + "2");
+
+// console.log((3+4) * 5 % 3);
+
+
+// console.log(true);
+
+console.log(+"");
 
 
 
