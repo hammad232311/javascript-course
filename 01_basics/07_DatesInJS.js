@@ -39,13 +39,14 @@
 // console.log(newDate.getTime());
 // console.log(newDate.getTimezoneOffset());
 // console.log(newDate.getUTCFullYear());
+ 
 
 
 
-
-// let newDate = new Date()
+let newDate = new Date()
 // console.log(newDate)
 
-// newDate.toLocaleString('default' , {
-//     weekday : 'long'
-// })
+newDate.toLocaleString('default' , {
+    weekday : 'long'
+})
+console.log(newDate.toDateString());
